@@ -1,22 +1,22 @@
 {
-"MONGODB": "mongodb+srv://adaleray:adaleray55@cluster0.d8gi6.mongodb.net/esra0204?retryWrites=true&w=majority",
+"MONGODB": "mongodb+srv://adaleray:adaleray55@cluster0.d8gi6.mongodb.net/esra0203?retryWrites=true&w=majority",
 "botOwner": [
 "852596213634039849","773986675256852541"
 ],
-"guildID": "953212500277624882",
+"guildID": "957332613343879178",
 "durum": [
-"么 AQUESTİON ❤️"
+"★ Temeria ❤️"
 ],
 "OWNER": [
 "852596213634039849","773986675256852541"
 ],
 "botPrefix": "g!",
 "VOICECHANNEL": "953298006990520390",
-"BOOSTERROLE": "953314200854339667",
-"JAILROLE": "953627803511824414",
-"PROTECTEDURL": "aquestion",
-"WEBHOOKID": "955482639060570126",
-"WEBHOOKTOKEN": "Fe-T7OPpLcEF8QNygp1TKgpLwWCOFsLYQhDtBEgyCiBZwFLgMuczliheCq1fZe1LuD1N",
+"BOOSTERROLE": "958046496010412122",
+"JAILROLE": "957704034238734356",
+"PROTECTEDURL": "temeria",
+"WEBHOOKID": "960262832543395871",
+"WEBHOOKTOKEN": "blDgWtPRYD1giYUeNYJUNL2jsQIl1yMDsg55Nww_kiW6o1hb9v27C_mWkbftUjmCWmPG",
 "ETİKET": "@everyone",
 "banner":"https://cdn.discordapp.com/attachments/915912488674029630/955486968270180412/Aquestion-beta.png",
 "sunucugif":"https://cdn.discordapp.com/attachments/915912488674029630/955486968937087026/ezgif.com-gif-maker_10-1.gif",
