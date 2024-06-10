@@ -1,11 +1,11 @@
 {
-"MONGODB": "mongodb+srv://adaleray:adaleray55@cluster0.d8gi6.mongodb.net/esra0203?retryWrites=true&w=majority",
+"MONGODB": "",
 "botOwner": [
 "852596213634039849","773986675256852541"
 ],
 "guildID": "957332613343879178",
 "durum": [
-"★ Temeria ❤️"
+" ❤️"
 ],
 "OWNER": [
 "852596213634039849","773986675256852541"
@@ -16,15 +16,15 @@
 "JAILROLE": "957704034238734356",
 "PROTECTEDURL": "temeria",
 "WEBHOOKID": "960262832543395871",
-"WEBHOOKTOKEN": "blDgWtPRYD1giYUeNYJUNL2jsQIl1yMDsg55Nww_kiW6o1hb9v27C_mWkbftUjmCWmPG",
+"WEBHOOKTOKEN": "",
 "ETİKET": "@everyone",
 "banner":"https://cdn.discordapp.com/attachments/915912488674029630/955486968270180412/Aquestion-beta.png",
 "sunucugif":"https://cdn.discordapp.com/attachments/915912488674029630/955486968937087026/ezgif.com-gif-maker_10-1.gif",
-"MANAGER": "OTMyOTY1OTQ4NDE4MzA2MDQ5.YeaqPw.kqZxvY0Jpswdr2RZlsGp6IjeZWc",
-"TOKEN1": "OTMyOTY0NzUyMDY0NDEzNzU2.YeapIg.HY_vks9hvLUp2-GdwRxT_u0ateQ",
-"TOKEN2": "OTMyOTY0ODcyMzczODA5MjYy.YeapPw.XOxFfk1wbYQnkuKwwGn3FX8WrVs",
-"TOKEN3": "OTMyOTY1Nzk3MjMwNDI4MjIx.YeaqGw.3lXz1_Dk6bOYq4V314BWS1m3ZjM",
-"TOKEN4": "OTMyOTY1ODc0ODEyNDczMzY0.YeaqLg.L064SAwiyA0MkqC3ITO-o-DjyGE",
+"MANAGER": "OTMyOTY1OTzA2MDQ5.YeaqPw.kqZxvY0Jpswdr2RZlsGp6IjeZWc",
+"TOKEN1": "OTMyOTY0NzUyMDY0NDEzNzU2.YeapIhvLUp2-GdwRxT_u0ateQ",
+"TOKEN2": "OTMyOTY0ODcyMzczODA5MjYy.YwbYQnkuKwwGn3FX8WrVs",
+"TOKEN3": "OTMyOTY1Nzk3MjMwNDI4MjIx.YeaqGw.314BWS1m3ZjM",
+"TOKEN4": "OTMyOTY1ODc0ODEyNDczMzY0.YiyA0MkqC3ITO-o-DjyGE",
 "STAFPERMS": [
 "ADMINISTRATOR",
 "MANAGE_ROLES",
